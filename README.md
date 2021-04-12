@@ -88,3 +88,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:${ALTERAPATH}/modelsim_ase/lib32
 `quartus`
 
 `vsim`
+
+
+## Referencias:
+- <link>https://vhdlwhiz.com/modelsim-quartus-prime-lite-ubuntu-20-04</link>
