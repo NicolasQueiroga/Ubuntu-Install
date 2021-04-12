@@ -1,11 +1,12 @@
 ## Installing on Ubuntu 20.04.xx (tested on Ubuntu 20.04.02)
 
 
+### Install curl:
+`sudo apt install -y curl`
 
 ### When you run the following script, you'll be downloading these packages:
 - git
 - git-lfs
-- curl
 - default-jdk & default-jre
 - vim
 - pip3
